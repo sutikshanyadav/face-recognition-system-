@@ -31,6 +31,7 @@ Run the provided database setup script or create a new database using the struct
 python main.py
 
 
+![Screenshot 2024-12-12 203717](https://github.com/user-attachments/assets/b620e761-ddcc-4b46-85ec-16958f932457)
 
 ![Screenshot 2025-01-19 142548](https://github.com/user-attachments/assets/71e699f4-1532-4e9c-ba92-598899d840d0)
 
